@@ -1,0 +1,5 @@
+
+1. Initialize a session using R. 
+
+
+
