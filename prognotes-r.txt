@@ -1,5 +1,33 @@
+Introduction to R is derived from an original set of notes describing the S and S-Plus environments 
+written in 1990–2 by Bill Venables and David M. Smith when at the University of Adelaide.
+R is an integrated suite of software facilities for data manipulation, calculation and graphical display. 
+Among other things it has
+a. an effective data handling and storage facility,
+b. a suite of operators for calculations on arrays, in particular matrices,
+c. a large, coherent, integrated collection of intermediate tools for data analysis,
+d. graphical facilities for data analysis and display either directly at the computer or on hard-copy, and
+e. a well developed, simple and effective programming language (called ‘S’) which includes conditionals, 
+    loops, user defined recursive functions and input and output facilities. (Indeed most of the system 
+    supplied functions are themselves written in the S language.) 
+R can be regarded as an implementation of the S language which was developed at Bell Laboratories by Rick Becker, 
+John Chambers and Allan Wilks, and also forms the basis of the S-Plus systems. Our introduction to the R environment 
+did not mention statistics, yet many people use R as a statistics system. Our introduction to the R environment did 
+not mention statistics, yet many people use R as a statistics system. 
+We prefer to think of it of an environment within which many classical and modern statistical techniques have been 
+implemented. A few of these are built into the base R environment, but many are supplied as packages. There are about 
+25 packages supplied with R (called “standard” and “recommended” packages) and many more are available through the 
+CRAN family of Internet sites (via https://CRAN.R-project.org) and elsewhere. Most classical statistics and much of the 
+latest methodology is available for use with R. 
+There is an important difference in philosophy between S (and hence R) and the other main statistical systems. In S a 
+statistical analysis is normally done as a series of steps, with intermediate results being stored in objects. Thus 
+whereas SAS and SPSS will give copious output from a regression or discriminant analysis, R will give minimal output 
+and store the results in a fit object for subsequent interrogation by further R functions. 
 
 1. Initialize a session using R. 
+
+
+
+
 
 
 
